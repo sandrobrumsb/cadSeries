@@ -1,0 +1,4 @@
+C:\cadSeries\obj\Debug\netcoreapp3.1\cadSeries.csprojAssemblyReference.cache
+C:\cadSeries\obj\Debug\netcoreapp3.1\cadSeries.AssemblyInfoInputs.cache
+C:\cadSeries\obj\Debug\netcoreapp3.1\cadSeries.AssemblyInfo.cs
+C:\cadSeries\obj\Debug\netcoreapp3.1\cadSeries.csproj.CoreCompileInputs.cache
